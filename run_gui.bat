@@ -1,0 +1,6 @@
+@echo off
+echo Setting up environment...
+set HOME=%USERPROFILE%
+echo Starting Vast.ai Auto Shutoff GUI...
+python vast_auto_shutoff_gui.py
+pause 

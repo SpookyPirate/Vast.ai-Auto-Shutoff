@@ -1,0 +1,622 @@
+2025-03-03 12:16:46,224 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:16:46,225 - INFO - Timeout set to 30.0 minutes
+2025-03-03 12:16:46,225 - INFO - Instance label: Instance-18422156
+2025-03-03 12:16:46,225 - INFO - Status updated: Monitoring Started
+2025-03-03 12:21:08,554 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:21:08,555 - INFO - Timeout set to 30.0 minutes
+2025-03-03 12:21:08,555 - INFO - Instance label: Instance-18422156
+2025-03-03 12:21:08,555 - INFO - Status updated: Monitoring Started
+2025-03-03 12:21:08,568 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:21:08,569 - INFO - Timeout set to 30.0 minutes
+2025-03-03 12:21:08,569 - INFO - Instance label: Instance-18422156
+2025-03-03 12:21:08,569 - INFO - Status updated: Monitoring Started
+2025-03-03 12:31:14,705 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:31:14,705 - INFO - Timeout set to 30.0 minutes
+2025-03-03 12:31:14,705 - INFO - Instance label: Instance-18422156
+2025-03-03 12:31:14,706 - INFO - Status updated: Monitoring Started
+2025-03-03 12:31:14,721 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:31:14,721 - INFO - Timeout set to 30.0 minutes
+2025-03-03 12:31:14,721 - INFO - Instance label: Instance-18422156
+2025-03-03 12:31:14,721 - INFO - Status updated: Monitoring Started
+2025-03-03 12:32:40,996 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:32:40,996 - INFO - Timeout set to 30.0 minutes
+2025-03-03 12:32:40,997 - INFO - Instance label: Instance-18422156
+2025-03-03 12:32:40,997 - INFO - Status updated: Monitoring Started
+2025-03-03 12:32:41,013 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:32:41,013 - INFO - Timeout set to 30.0 minutes
+2025-03-03 12:32:41,013 - INFO - Instance label: Instance-18422156
+2025-03-03 12:32:41,013 - INFO - Status updated: Monitoring Started
+2025-03-03 12:38:00,753 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:38:00,754 - INFO - Timeout set to 30.0 minutes
+2025-03-03 12:38:00,754 - INFO - Instance label: Instance-18422156
+2025-03-03 12:38:00,754 - INFO - Status updated: Monitoring Started
+2025-03-03 12:38:01,327 - INFO - Status updated: Process Not Running - 29m 59s until deletion
+2025-03-03 12:38:06,334 - INFO - Status updated: Process Not Running - 29m 54s until deletion
+2025-03-03 12:38:11,341 - INFO - Status updated: Process Not Running - 29m 49s until deletion
+2025-03-03 12:38:16,347 - INFO - Status updated: Process Not Running - 29m 44s until deletion
+2025-03-03 12:38:20,532 - INFO - Received command: stop
+2025-03-03 12:38:20,532 - INFO - Received stop command, exiting...
+2025-03-03 12:38:20,533 - INFO - Status updated: Monitoring Stopped
+2025-03-03 12:38:20,533 - INFO - Monitoring process exiting
+2025-03-03 12:38:21,353 - INFO - Status updated: Process Not Running - 29m 39s until deletion
+2025-03-03 12:40:44,135 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:40:44,135 - INFO - Timeout set to 30.0 minutes
+2025-03-03 12:40:44,135 - INFO - Instance label: Instance-18422156
+2025-03-03 12:40:44,136 - INFO - Status updated: Monitoring Started
+2025-03-03 12:40:44,695 - INFO - Status updated: Process Not Running - 29m 59s until deletion
+2025-03-03 12:40:49,701 - INFO - Status updated: Process Not Running - 29m 54s until deletion
+2025-03-03 12:40:54,708 - INFO - Status updated: Process Not Running - 29m 49s until deletion
+2025-03-03 12:40:59,714 - INFO - Status updated: Process Not Running - 29m 44s until deletion
+2025-03-03 12:41:04,720 - INFO - Status updated: Process Not Running - 29m 39s until deletion
+2025-03-03 12:41:09,728 - INFO - Status updated: Process Not Running - 29m 34s until deletion
+2025-03-03 12:41:14,733 - INFO - Status updated: Process Not Running - 29m 29s until deletion
+2025-03-03 12:41:19,739 - INFO - Status updated: Process Not Running - 29m 24s until deletion
+2025-03-03 12:41:24,746 - INFO - Status updated: Process Not Running - 29m 19s until deletion
+2025-03-03 12:41:27,328 - INFO - Received command: stop
+2025-03-03 12:41:27,329 - INFO - Received stop command, exiting...
+2025-03-03 12:41:27,329 - INFO - Status updated: Monitoring Stopped
+2025-03-03 12:41:27,329 - INFO - Monitoring process exiting
+2025-03-03 12:42:22,088 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:42:22,088 - INFO - Timeout set to 1.0 minutes
+2025-03-03 12:42:22,088 - INFO - Instance label: Instance-18422156
+2025-03-03 12:42:22,088 - INFO - Status updated: Monitoring Started
+2025-03-03 12:42:22,656 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 12:42:27,662 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 12:42:32,669 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 12:42:37,676 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 12:42:42,682 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 12:42:47,689 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 12:42:52,695 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 12:42:57,701 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 12:43:02,708 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 12:43:07,714 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 12:43:12,720 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 12:43:17,726 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 12:43:22,732 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 12:43:22,992 - INFO - Found 0 instance(s) with label 'Instance-18422156'
+2025-03-03 12:43:22,992 - INFO - No instances found to delete
+2025-03-03 12:43:22,993 - INFO - Status updated: Process Not Running - 0m 0s until deletion
+2025-03-03 12:43:28,000 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 12:43:33,006 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 12:43:38,013 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 12:43:43,019 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 12:43:48,025 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 12:43:53,032 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 12:43:58,038 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 12:44:03,041 - INFO - Received command: stop
+2025-03-03 12:44:03,041 - INFO - Received stop command, exiting immediately...
+2025-03-03 12:44:03,042 - INFO - Status updated: Monitoring Stopped
+2025-03-03 12:48:46,577 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:48:46,578 - INFO - Timeout set to 1.0 minutes
+2025-03-03 12:48:46,578 - INFO - Instance identifier: 18422156
+2025-03-03 12:48:46,578 - INFO - Status updated: Monitoring Started
+2025-03-03 12:48:47,116 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 12:48:52,122 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 12:48:57,129 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 12:49:02,135 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 12:49:07,142 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 12:49:12,148 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 12:49:17,154 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 12:49:22,159 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 12:49:27,166 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 12:49:32,172 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 12:49:37,179 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 12:49:42,185 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 12:49:47,191 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 12:49:48,795 - INFO - Found 0 instance(s) with label '18422156'
+2025-03-03 12:49:48,795 - INFO - No instances found to delete, will retry in a minute
+2025-03-03 12:49:48,795 - INFO - Status updated: Process Not Running - 0m 0s until deletion
+2025-03-03 12:49:53,802 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 12:49:58,809 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 12:50:03,815 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 12:50:06,374 - INFO - Received command: stop
+2025-03-03 12:50:06,375 - INFO - Received stop command, exiting...
+2025-03-03 12:50:06,375 - INFO - Status updated: Monitoring Stopped
+2025-03-03 12:50:06,375 - INFO - Monitoring process exiting
+2025-03-03 12:53:27,190 - INFO - Received instance identifier: '18422156'
+2025-03-03 12:53:27,190 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:53:27,190 - INFO - Timeout set to 1.0 minutes
+2025-03-03 12:53:27,191 - INFO - Status updated: Monitoring Started
+2025-03-03 12:53:27,777 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 12:53:32,804 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 12:53:37,810 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 12:53:42,817 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 12:53:47,823 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 12:53:52,829 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 12:53:57,836 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 12:54:02,843 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 12:54:07,849 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 12:54:12,856 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 12:54:17,862 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 12:54:22,869 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 12:54:27,876 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 12:54:28,197 - INFO - Searching for instance with ID 18422156
+2025-03-03 12:54:28,197 - INFO - Found 1 instance(s) with ID 18422156
+2025-03-03 12:54:29,686 - INFO - Successfully deleted instance 18422156
+2025-03-03 12:54:29,686 - INFO - Successfully deleted instances, exiting...
+2025-03-03 12:54:29,687 - INFO - Status updated: Instances Deleted, Monitoring Stopped
+2025-03-03 12:54:29,687 - INFO - Monitoring process exiting
+2025-03-03 12:57:40,723 - INFO - Received instance identifier: '18422156'
+2025-03-03 12:57:40,723 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 12:57:40,723 - INFO - Timeout set to 1.0 minutes
+2025-03-03 12:57:40,723 - INFO - Status updated: Monitoring Started
+2025-03-03 12:57:41,265 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 12:57:46,271 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 12:57:51,278 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 12:57:52,294 - INFO - Received command: stop
+2025-03-03 12:57:52,295 - INFO - Received stop command, exiting...
+2025-03-03 12:57:52,295 - INFO - Status updated: Monitoring Stopped
+2025-03-03 12:57:52,295 - INFO - Monitoring process exiting
+2025-03-03 13:05:10,245 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:05:10,245 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:05:10,245 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:05:10,245 - INFO - Status updated: Monitoring Started
+2025-03-03 13:05:10,822 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:05:15,831 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:05:20,833 - INFO - Received stop command, exiting immediately...
+2025-03-03 13:05:20,833 - INFO - Status updated: Monitoring Stopped
+2025-03-03 13:09:04,836 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:09:04,837 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:09:04,837 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:09:04,837 - INFO - Status updated: Monitoring Started
+2025-03-03 13:09:05,424 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:09:10,434 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:09:15,441 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:09:20,448 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 13:09:25,449 - INFO - Received stop command, exiting immediately...
+2025-03-03 13:09:25,450 - INFO - Status updated: Monitoring Stopped
+2025-03-03 13:12:19,236 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:12:19,236 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:12:19,236 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:12:19,237 - INFO - Status updated: Monitoring Started
+2025-03-03 13:12:19,800 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:12:24,806 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:12:29,813 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:12:34,819 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 13:12:39,826 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 13:12:44,832 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 13:12:49,839 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 13:12:54,845 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 13:12:59,851 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 13:13:04,858 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 13:14:41,399 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:14:41,399 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:14:41,399 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:14:41,400 - INFO - Status updated: Monitoring Started
+2025-03-03 13:14:41,949 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:14:46,955 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:14:51,962 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:14:56,968 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 13:15:01,978 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 13:15:06,985 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 13:15:11,992 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 13:15:16,998 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 13:15:22,004 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 13:15:27,012 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 13:15:32,018 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 13:15:37,024 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 13:15:42,031 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 13:15:42,299 - INFO - Searching for instance with ID 18422156
+2025-03-03 13:15:42,299 - INFO - Found 0 instance(s) with ID 18422156
+2025-03-03 13:15:42,299 - INFO - No instances found to delete, will retry in a minute
+2025-03-03 13:15:42,300 - INFO - Status updated: Process Not Running - 0m 0s until deletion
+2025-03-03 13:15:47,306 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:15:52,314 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:15:57,321 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 13:16:02,174 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:16:02,174 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:16:02,174 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:16:02,175 - INFO - Status updated: Monitoring Started
+2025-03-03 13:16:02,327 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 13:16:02,744 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:16:07,334 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 13:16:07,750 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:16:12,341 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 13:16:12,757 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:16:17,347 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 13:16:17,764 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 13:16:22,356 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 13:16:22,771 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 13:16:27,359 - INFO - Received stop command, exiting immediately...
+2025-03-03 13:16:27,359 - INFO - Status updated: Monitoring Stopped
+2025-03-03 13:16:47,063 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:16:47,063 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:16:47,064 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:16:47,064 - INFO - Status updated: Monitoring Started
+2025-03-03 13:16:47,627 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:16:52,634 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:16:57,641 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:17:02,651 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 13:18:36,647 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:18:36,647 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:18:36,647 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:18:36,647 - INFO - Status updated: Monitoring Started
+2025-03-03 13:18:37,187 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:18:42,194 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:18:47,201 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:18:52,212 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 13:18:57,219 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 13:19:02,225 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 13:19:07,232 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 13:19:12,239 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 13:19:17,246 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 13:19:22,252 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 13:19:27,259 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 13:19:32,265 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 13:19:37,272 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 13:19:37,520 - INFO - Searching for instance with ID 18422156
+2025-03-03 13:19:37,520 - INFO - Found 0 instance(s) with ID 18422156
+2025-03-03 13:19:37,520 - INFO - No instances found to delete, will retry in a minute
+2025-03-03 13:19:37,521 - INFO - Status updated: Process Not Running - 0m 0s until deletion
+2025-03-03 13:19:42,527 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:19:47,534 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:23:08,039 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:23:08,039 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:23:08,039 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:23:08,039 - INFO - Status updated: Monitoring Started
+2025-03-03 13:23:08,601 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:23:13,608 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:23:18,615 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:23:23,621 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 13:23:28,629 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 13:23:33,635 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 13:23:38,642 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 13:23:43,649 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 13:25:27,104 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:25:27,105 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:25:27,105 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:25:27,105 - INFO - Status updated: Monitoring Started
+2025-03-03 13:25:27,667 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:25:32,674 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:25:37,681 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 13:26:44,518 - INFO - Received instance identifier: '18422156'
+2025-03-03 13:26:44,518 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 13:26:44,518 - INFO - Timeout set to 1.0 minutes
+2025-03-03 13:26:44,519 - INFO - Status updated: Monitoring Started
+2025-03-03 13:26:45,014 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 13:26:50,020 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 13:26:55,027 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:16:26,994 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:16:26,994 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:16:26,994 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:16:26,994 - INFO - Status updated: Monitoring Started
+2025-03-03 18:16:27,533 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:16:32,543 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:16:37,549 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:16:42,556 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 18:16:47,562 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 18:16:52,569 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 18:16:57,576 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 18:17:02,577 - INFO - Received stop command, exiting immediately...
+2025-03-03 18:17:02,578 - INFO - Status updated: Monitoring Stopped
+2025-03-03 18:25:08,548 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:25:08,549 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:25:08,549 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:25:08,549 - INFO - Status updated: Monitoring Started
+2025-03-03 18:25:09,085 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:25:14,091 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:25:19,098 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:25:24,104 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 18:25:29,107 - INFO - Received stop command, exiting immediately...
+2025-03-03 18:25:29,107 - INFO - Status updated: Monitoring Stopped
+2025-03-03 18:28:12,315 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:28:12,315 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:28:12,315 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:28:12,316 - INFO - Status updated: Monitoring Started
+2025-03-03 18:28:12,865 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:28:17,876 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:28:22,882 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:28:27,889 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 18:28:32,895 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 18:28:37,901 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 18:28:42,908 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 18:28:47,914 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 18:28:52,921 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 18:28:57,927 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 18:29:02,934 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 18:29:07,941 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 18:29:12,947 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 18:29:13,273 - INFO - Searching for instance with ID 18422156
+2025-03-03 18:29:13,273 - INFO - Found 0 instance(s) with ID 18422156
+2025-03-03 18:29:13,274 - INFO - No instances found to delete, will retry in a minute
+2025-03-03 18:29:13,275 - INFO - Status updated: Process Not Running - 0m 0s until deletion
+2025-03-03 18:29:18,281 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:29:23,287 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:31:50,761 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:31:50,761 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:31:50,761 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:31:50,762 - INFO - Status updated: Monitoring Started
+2025-03-03 18:31:51,290 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:31:56,296 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:32:01,303 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:32:06,309 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 18:32:11,315 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 18:33:28,303 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:33:28,303 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:33:28,304 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:33:28,304 - INFO - Status updated: Monitoring Started
+2025-03-03 18:33:28,824 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:33:33,831 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:33:38,838 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:33:43,844 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 18:33:48,851 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 18:33:53,858 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 18:33:58,864 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 18:34:03,871 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 18:34:08,878 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 18:34:13,884 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 18:34:18,891 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 18:34:23,898 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 18:34:28,903 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 18:34:29,379 - INFO - Searching for instance with ID 18422156
+2025-03-03 18:34:29,380 - INFO - Found 0 instance(s) with ID 18422156
+2025-03-03 18:34:29,380 - INFO - No instances found to delete, will retry in a minute
+2025-03-03 18:34:29,380 - INFO - Status updated: Process Not Running - 0m 0s until deletion
+2025-03-03 18:36:05,437 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:36:05,437 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:36:05,438 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:36:05,438 - INFO - Status updated: Monitoring Started
+2025-03-03 18:36:05,976 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:36:10,982 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:36:15,989 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:36:20,996 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 18:36:26,003 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 18:36:31,009 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 18:36:36,016 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 18:36:41,022 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 18:36:46,029 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 18:36:51,034 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 18:36:56,042 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 18:37:01,049 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 18:37:06,055 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 18:37:06,434 - INFO - Searching for instance with ID 18422156
+2025-03-03 18:37:06,434 - INFO - Found 0 instance(s) with ID 18422156
+2025-03-03 18:37:06,434 - INFO - No instances found to delete, will retry in a minute
+2025-03-03 18:37:06,434 - INFO - Status updated: Process Not Running - 0m 0s until deletion
+2025-03-03 18:38:35,564 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:38:35,564 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:38:35,564 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:38:35,565 - INFO - Status updated: Monitoring Started
+2025-03-03 18:38:36,105 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:38:41,111 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:38:46,118 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:38:51,125 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 18:38:56,131 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 18:39:01,138 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 18:39:06,144 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 18:39:11,151 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 18:39:16,157 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 18:39:21,164 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 18:39:26,172 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 18:39:31,178 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 18:39:36,184 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 18:39:36,452 - INFO - Searching for instance with ID 18422156
+2025-03-03 18:39:36,452 - INFO - Found 0 instance(s) with ID 18422156
+2025-03-03 18:39:36,452 - INFO - No instances found to delete, will retry in a minute
+2025-03-03 18:39:36,453 - INFO - Status updated: Process Not Running - 0m 0s until deletion
+2025-03-03 18:39:41,460 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:39:46,466 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:41:33,668 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:41:33,669 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:41:33,669 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:41:33,669 - INFO - Status updated: Monitoring Started
+2025-03-03 18:41:34,205 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:41:39,211 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:41:44,218 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:41:49,225 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 18:41:54,232 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 18:41:59,238 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 18:42:04,244 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 18:44:55,254 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:44:55,254 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:44:55,254 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:44:55,254 - INFO - Status updated: Monitoring Started
+2025-03-03 18:44:55,784 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:45:00,790 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:47:43,640 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:47:43,640 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:47:43,640 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:47:43,641 - INFO - Status updated: Monitoring Started
+2025-03-03 18:47:44,177 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:47:49,184 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:47:54,191 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:47:59,198 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 18:48:04,211 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 18:48:09,217 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 18:48:14,224 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 18:48:19,231 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 18:48:24,237 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 18:48:29,244 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 18:49:56,386 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:49:56,386 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:49:56,386 - INFO - Timeout set to 1.0 minutes
+2025-03-03 18:49:56,387 - INFO - Status updated: Monitoring Started
+2025-03-03 18:49:56,917 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 18:50:01,923 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 18:50:06,929 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 18:50:20,470 - INFO - Received instance identifier: '18422156'
+2025-03-03 18:50:20,470 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 18:50:20,470 - INFO - Timeout set to 2.0 minutes
+2025-03-03 18:50:20,470 - INFO - Status updated: Monitoring Started
+2025-03-03 18:50:21,007 - INFO - Status updated: Process Not Running - 1m 59s until deletion
+2025-03-03 18:50:26,013 - INFO - Status updated: Process Not Running - 1m 54s until deletion
+2025-03-03 18:50:31,020 - INFO - Status updated: Process Not Running - 1m 49s until deletion
+2025-03-03 19:15:13,063 - INFO - Received instance identifier: '18422156'
+2025-03-03 19:15:13,063 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 19:15:13,064 - INFO - Timeout set to 2.0 minutes
+2025-03-03 19:15:13,064 - INFO - Status updated: Monitoring Started
+2025-03-03 19:15:13,622 - INFO - Status updated: Process Not Running - 1m 59s until deletion
+2025-03-03 19:15:18,629 - INFO - Status updated: Process Not Running - 1m 54s until deletion
+2025-03-03 19:15:23,631 - INFO - Received stop command, exiting immediately...
+2025-03-03 19:15:23,631 - INFO - Status updated: Monitoring Stopped
+2025-03-03 19:18:11,410 - INFO - Received instance identifier: '18433583'
+2025-03-03 19:18:11,410 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 19:18:11,411 - INFO - Timeout set to 1.0 minutes
+2025-03-03 19:18:11,411 - INFO - Status updated: Monitoring Started
+2025-03-03 19:18:11,913 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 19:18:16,920 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 19:18:21,926 - INFO - Status updated: Process Not Running - 0m 49s until deletion
+2025-03-03 19:18:26,933 - INFO - Status updated: Process Not Running - 0m 44s until deletion
+2025-03-03 19:18:31,939 - INFO - Status updated: Process Not Running - 0m 39s until deletion
+2025-03-03 19:18:36,945 - INFO - Status updated: Process Not Running - 0m 34s until deletion
+2025-03-03 19:18:41,952 - INFO - Status updated: Process Not Running - 0m 29s until deletion
+2025-03-03 19:18:46,958 - INFO - Status updated: Process Not Running - 0m 24s until deletion
+2025-03-03 19:18:51,965 - INFO - Status updated: Process Not Running - 0m 19s until deletion
+2025-03-03 19:18:56,971 - INFO - Status updated: Process Not Running - 0m 14s until deletion
+2025-03-03 19:19:01,979 - INFO - Status updated: Process Not Running - 0m 9s until deletion
+2025-03-03 19:19:06,985 - INFO - Status updated: Process Not Running - 0m 4s until deletion
+2025-03-03 19:19:11,992 - INFO - Timeout reached (1.0 minutes), deleting instances...
+2025-03-03 19:19:12,338 - INFO - Searching for instance with ID 18433583
+2025-03-03 19:19:12,338 - INFO - Found 1 instance(s) with ID 18433583
+2025-03-03 19:19:12,710 - INFO - Successfully deleted instance 18433583
+2025-03-03 19:19:12,710 - INFO - Successfully deleted instances, exiting...
+2025-03-03 19:19:12,711 - INFO - Status updated: Instances Deleted, Monitoring Stopped
+2025-03-03 19:19:12,711 - INFO - Monitoring process exiting
+2025-03-03 19:27:22,837 - INFO - Received instance identifier: '18433757'
+2025-03-03 19:27:22,837 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 19:27:22,837 - INFO - Timeout set to 1.0 minutes
+2025-03-03 19:27:22,838 - INFO - Status updated: Monitoring Started
+2025-03-03 19:27:23,394 - INFO - Status updated: Process Not Running - 0m 59s until deletion
+2025-03-03 19:27:28,401 - INFO - Status updated: Process Not Running - 0m 54s until deletion
+2025-03-03 19:27:33,402 - INFO - Received stop command, exiting immediately...
+2025-03-03 19:27:33,403 - INFO - Status updated: Monitoring Stopped
+2025-03-03 19:29:17,512 - INFO - Received instance identifier: '18433757'
+2025-03-03 19:29:17,512 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 19:29:17,512 - INFO - Timeout set to 1.0 minutes
+2025-03-03 19:29:17,513 - INFO - Status updated: Monitoring Started
+2025-03-03 19:29:18,163 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:29:18,163 - INFO - Process started running
+2025-03-03 19:29:18,164 - INFO - Status updated: Process Running
+2025-03-03 19:29:18,164 - INFO - Status updated: Process Running
+2025-03-03 19:29:23,172 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:29:23,172 - INFO - Status updated: Process Running
+2025-03-03 19:29:28,180 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:29:28,180 - INFO - Status updated: Process Running
+2025-03-03 19:29:33,188 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:29:33,188 - INFO - Status updated: Process Running
+2025-03-03 19:29:38,194 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:29:38,195 - INFO - Status updated: Process Running
+2025-03-03 19:29:43,202 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:29:43,203 - INFO - Status updated: Process Running
+2025-03-03 19:29:48,234 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:29:48,235 - INFO - Status updated: Process Running
+2025-03-03 19:29:53,242 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:29:53,243 - INFO - Status updated: Process Running
+2025-03-03 19:29:58,259 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:29:58,260 - INFO - Status updated: Process Running
+2025-03-03 19:30:03,299 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:03,300 - INFO - Status updated: Process Running
+2025-03-03 19:30:08,307 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:08,308 - INFO - Status updated: Process Running
+2025-03-03 19:30:13,316 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:13,317 - INFO - Status updated: Process Running
+2025-03-03 19:30:18,323 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:18,324 - INFO - Status updated: Process Running
+2025-03-03 19:30:23,331 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:23,333 - INFO - Status updated: Process Running
+2025-03-03 19:30:28,344 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:28,345 - INFO - Status updated: Process Running
+2025-03-03 19:30:33,351 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:33,351 - INFO - Status updated: Process Running
+2025-03-03 19:30:38,358 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:38,359 - INFO - Status updated: Process Running
+2025-03-03 19:30:43,366 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:43,367 - INFO - Status updated: Process Running
+2025-03-03 19:30:48,373 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:48,374 - INFO - Status updated: Process Running
+2025-03-03 19:30:53,382 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:53,382 - INFO - Status updated: Process Running
+2025-03-03 19:30:58,389 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:30:58,390 - INFO - Status updated: Process Running
+2025-03-03 19:31:03,396 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:03,397 - INFO - Status updated: Process Running
+2025-03-03 19:31:08,405 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:08,406 - INFO - Status updated: Process Running
+2025-03-03 19:31:13,413 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:13,413 - INFO - Status updated: Process Running
+2025-03-03 19:31:18,420 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:18,421 - INFO - Status updated: Process Running
+2025-03-03 19:31:23,428 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:23,429 - INFO - Status updated: Process Running
+2025-03-03 19:31:28,435 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:28,436 - INFO - Status updated: Process Running
+2025-03-03 19:31:33,443 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:33,444 - INFO - Status updated: Process Running
+2025-03-03 19:31:38,451 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:38,451 - INFO - Status updated: Process Running
+2025-03-03 19:31:43,458 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:43,459 - INFO - Status updated: Process Running
+2025-03-03 19:31:48,465 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:48,466 - INFO - Status updated: Process Running
+2025-03-03 19:31:53,473 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:53,474 - INFO - Status updated: Process Running
+2025-03-03 19:31:58,481 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:31:58,481 - INFO - Status updated: Process Running
+2025-03-03 19:32:03,488 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:32:03,488 - INFO - Status updated: Process Running
+2025-03-03 19:32:08,495 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:32:08,496 - INFO - Status updated: Process Running
+2025-03-03 19:32:13,504 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:32:13,505 - INFO - Status updated: Process Running
+2025-03-03 19:32:18,511 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:32:18,512 - INFO - Status updated: Process Running
+2025-03-03 19:32:23,519 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:32:23,520 - INFO - Status updated: Process Running
+2025-03-03 19:32:28,521 - INFO - Received stop command, exiting immediately...
+2025-03-03 19:32:28,522 - INFO - Status updated: Monitoring Stopped
+2025-03-03 19:36:52,622 - INFO - Received instance identifier: '18433757'
+2025-03-03 19:36:52,622 - INFO - Starting monitoring for processes: skyrimvr.exe,skyrim.exe
+2025-03-03 19:36:52,622 - INFO - Timeout set to 1.0 minutes
+2025-03-03 19:36:52,622 - INFO - Status updated: Monitoring Started
+2025-03-03 19:36:53,287 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:36:53,287 - INFO - Process started running
+2025-03-03 19:36:53,287 - INFO - Status updated: Process Running
+2025-03-03 19:36:53,288 - INFO - Status updated: Process Running
+2025-03-03 19:36:58,295 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:36:58,295 - INFO - Status updated: Process Running
+2025-03-03 19:37:03,302 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:03,303 - INFO - Status updated: Process Running
+2025-03-03 19:37:08,310 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:08,310 - INFO - Status updated: Process Running
+2025-03-03 19:37:13,317 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:13,318 - INFO - Status updated: Process Running
+2025-03-03 19:37:18,325 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:18,326 - INFO - Status updated: Process Running
+2025-03-03 19:37:23,333 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:23,333 - INFO - Status updated: Process Running
+2025-03-03 19:37:28,340 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:28,341 - INFO - Status updated: Process Running
+2025-03-03 19:37:33,348 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:33,348 - INFO - Status updated: Process Running
+2025-03-03 19:37:38,355 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:38,355 - INFO - Status updated: Process Running
+2025-03-03 19:37:43,362 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:43,363 - INFO - Status updated: Process Running
+2025-03-03 19:37:48,369 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:48,370 - INFO - Status updated: Process Running
+2025-03-03 19:37:53,376 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:53,377 - INFO - Status updated: Process Running
+2025-03-03 19:37:58,383 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:37:58,384 - INFO - Status updated: Process Running
+2025-03-03 19:38:03,390 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:03,391 - INFO - Status updated: Process Running
+2025-03-03 19:38:08,398 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:08,398 - INFO - Status updated: Process Running
+2025-03-03 19:38:13,405 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:13,406 - INFO - Status updated: Process Running
+2025-03-03 19:38:18,413 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:18,414 - INFO - Status updated: Process Running
+2025-03-03 19:38:23,421 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:23,422 - INFO - Status updated: Process Running
+2025-03-03 19:38:28,428 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:28,429 - INFO - Status updated: Process Running
+2025-03-03 19:38:33,435 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:33,436 - INFO - Status updated: Process Running
+2025-03-03 19:38:38,443 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:38,443 - INFO - Status updated: Process Running
+2025-03-03 19:38:43,450 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:43,451 - INFO - Status updated: Process Running
+2025-03-03 19:38:48,458 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:48,459 - INFO - Status updated: Process Running
+2025-03-03 19:38:53,465 - INFO - Process skyrimvr.exe is running (PID: 29972)
+2025-03-03 19:38:53,467 - INFO - Status updated: Process Running

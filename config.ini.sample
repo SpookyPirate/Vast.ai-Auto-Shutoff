@@ -1,0 +1,10 @@
+[general]
+check_interval_seconds = 60
+timeout_minutes = 15
+
+[processes]
+process_names = skyrimvr.exe,skyrim.exe
+
+[vast_ai]
+api_key = YOUR_API_KEY_HERE
+instance_label = XTTS 

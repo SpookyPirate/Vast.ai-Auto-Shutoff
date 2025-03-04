@@ -1,0 +1,33 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# PyInstaller build directories
+build/
+dist/
+buildtemp/
+clean_build/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Package specific
+*.spec
+!nowindow.spec
+!monitor_process.spec
+
+# Distribution files
+*.zip
+
+# User-specific files
+*.log
+.DS_Store
+
+# Status and command files
+status/
+commands/
+
+# IDE specific files
+.idea/
+.vscode/ 
