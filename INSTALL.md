@@ -5,10 +5,6 @@ This guide will help you install and configure the Vast Auto Shutoff utility.
 ## Prerequisites
 
 - **Windows**: The application is designed to run on Windows.
-- **Python**: You must have Python installed on your system for the monitoring feature to work correctly.
-  - Download Python from [python.org](https://www.python.org/downloads/)
-  - During installation, check the box to "Add Python to PATH"
-  - Minimum required version: Python 3.8 or higher
 
 ## Installation Options
 
@@ -16,8 +12,7 @@ This guide will help you install and configure the Vast Auto Shutoff utility.
 
 1. Download the latest release ZIP file from the releases section.
 2. Extract the ZIP file to a location of your choice.
-3. **Important**: Make sure Python is installed on your system (see Prerequisites).
-4. Run the application by double-clicking "Run Vast Auto Shutoff.bat"
+3. Run the application by double-clicking "Run Vast Auto Shutoff.bat"
 
 ### Option 2: Run from Source Code (For developers)
 
