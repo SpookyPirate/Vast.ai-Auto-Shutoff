@@ -25,9 +25,10 @@ __pycache__/
 .DS_Store
 
 # Status and command files
-status/
+status/*
 commands/
 
 # IDE specific files
 .idea/
 .vscode/ 
+
